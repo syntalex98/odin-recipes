@@ -1,1 +1,1 @@
-# odin-recipes
+This current projeect entails followinf steps to create a recipe site. I expect to gain further understanding of elements such as headings, paragraphs, anchors. I will learn better how to navigate files in the directory and hyperreference correctly whether it be relatively or absolutely. This project could serve as a great way to repeat some of the stuff I'v learnt so far!
